@@ -1,3 +1,2 @@
 # shell_scripting
-hi this is readme.txt 
-welcome
+hi welcome for shell scripting
